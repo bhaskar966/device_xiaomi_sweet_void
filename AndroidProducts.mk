@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_sweet.mk
+    $(LOCAL_DIR)/bliss_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    voltage_sweet-user \
-    voltage_sweet-userdebug \
-    voltage_sweet-eng
+    bliss_sweet-user \
+    bliss_sweet-userdebug \
+    bliss_sweet-eng
