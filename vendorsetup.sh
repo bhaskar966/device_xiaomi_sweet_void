@@ -19,5 +19,5 @@ git clone https://github.com/bhaskar966/vendor_xiaomi.git -b 13.0 vendor/xiaomi
 git clone https://github.com/PixelExperience/packages_resources_devicesettings packages/resources/devicesettings
 
 # Kernel
-git clone -b 15 --depth=1 https://gitlab.com/PixelOS-Devices/playgroundtc.git prebuilts/clang/host/linux-x86/clang-playground
-git clone -b meraki --depth=1 https://github.com/Sm6150-Sweet/kernel_xiaomi_sm6150 kernel/xiaomi/sm6150
+git clone -b main --depth=1 https://gitlab.com/Panchajanya1999/azure-clang.git prebuilts/clang/host/linux-x86/clang-azure
+git clone -b t13 --depth=1 https://github.com/itsshashanksp/kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
