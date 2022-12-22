@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/awaken_sweet.mk
+    $(LOCAL_DIR)/cherish_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    awaken_sweet-user \
-    awaken_sweet-userdebug \
-    awaken_sweet-eng
+    cherish_sweet-user \
+    cherish_sweet-userdebug \
+    cherish_sweet-eng
