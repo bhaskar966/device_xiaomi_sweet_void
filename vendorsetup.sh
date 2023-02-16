@@ -11,7 +11,7 @@ git clone https://github.com/ArrowOS/android_hardware_qcom_media -b arrow-13.0-c
 git clone https://github.com/ArrowOS/android_hardware_qcom_display -b arrow-13.0-caf-sm8150 hardware/qcom-caf/sm8150/display
 
 # Common dt
-git clone https://github.com/bhaskar966/device_xiaomi_sm6150.git -b 13.0 device/xiaomi/sm6150-common
+git clone https://github.com/bhaskar966/device_xiaomi_sm6150_void.git -b 13.0 device/xiaomi/sm6150-common
 
 # Vendor
 git clone https://github.com/bhaskar966/vendor_xiaomi.git -b 13.0 vendor/xiaomi
